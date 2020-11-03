@@ -1,0 +1,16 @@
+{
+    "/src/useRefHooks/UseClickOutside.jsx": {
+        "8": [
+            "init",
+            0,
+            0,
+            "if (ref.current && ref.current !== event.target) {"
+        ],
+        "17": [
+            "",
+            0,
+            1,
+            "console.log('Removing event listener');"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+[
+	{
+		"path": "$ROOTPATH$/src/useRefHooks/UseRefHooks.jsx",
+		"bookmarks": [
+			{
+				"line": 15,
+				"column": 14,
+				"label": "init"
+			},
+			{
+				"line": 57,
+				"column": 23,
+				"label": "optionForSelect"
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/src/useRefHooks/useClickOutside.jsx",
+		"bookmarks": [
+			{
+				"line": 15,
+				"column": 26,
+				"label": "mousedown event listener"
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/src/useEffectHooks/UseEffectHooks.jsx",
+		"bookmarks": [
+			{
+				"line": 12,
+				"column": 14,
+				"label": "returning callback"
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/src/component/ParentComponent.jsx",
+		"bookmarks": [
+			{
+				"line": 7,
+				"column": 13,
+				"label": "parent component state"
+			}
+		]
+	}
+]
