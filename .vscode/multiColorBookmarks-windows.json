@@ -1,0 +1,22 @@
+{
+  "/src/useRefHooks/UseClickOutside.jsx": {
+    "8": [
+      "init",
+      "Activation",
+      0,
+      "if (ref.current && ref.current !== event.target) {"
+    ],
+    "14": ["testing", "Resum", 100, "console.log('adding event listener');"],
+    "17": ["", "Activation", 1, "console.log('Removing event listener');"],
+    "18": [
+      "adding first one",
+      "Activation",
+      1,
+      "document.removeEventListener('mousedown', handleClickOutside);"
+    ],
+    "19": ["adding second one", "Activation", 1, "};"]
+  },
+  "/src/useRefHooks/UseRefHooks.jsx": {
+    "36": ["add", "Invoice", 0, "<option>Don't want to answer psd</option>"]
+  }
+}
