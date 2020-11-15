@@ -1,0 +1,42 @@
+{
+  "/src/useRefHooks/useClickOutside.jsx": {
+    "8": [
+      "init",
+      "NewFlow",
+      0,
+      "if (ref.current && ref.current !== event.target) {"
+    ],
+    "20": ["", "NewFlow", 1, "}, [ref, callback]);"]
+  },
+  "/src/useRefHooks/UseRefHooks.jsx": {
+    "27": [
+      "",
+      "ImportedFromBookmarks",
+      0,
+      "onClick={() => dropdownRefHandler}"
+    ],
+    "37": ["", "NewFlow", 2, "<option>Male</option>"],
+    "51": ["", "ImportedFromBookmarks", 1, "value={selectedValue}"],
+    "61": ["init", "2ndFlow", 0, "ref={buttonRef}"]
+  },
+  "/src/component/ParentComponent.jsx": {
+    "7": ["init", "Resumption", 0, "content: 'Hello World!',"]
+  },
+  "/src/useStateHooks/useStateChild.jsx": {
+    "5": [
+      "",
+      "ImportedFromBookmarks",
+      2,
+      "const [gender, setGender] = useState('M');"
+    ],
+    "13": ["", "ImportedFromBookmarks", 3, "else setGender('M');"]
+  },
+  "/src/useStateHooks/UseStateHooks.jsx": {
+    "23": [
+      "",
+      "ImportedFromBookmarks",
+      4,
+      "<UseStateChild name={name} age={33} value='deepak' />"
+    ]
+  }
+}

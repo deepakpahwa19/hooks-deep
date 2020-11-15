@@ -1,46 +1,41 @@
 [
 	{
-		"path": "$ROOTPATH$/src/useRefHooks/UseRefHooks.jsx",
+		"path": "$ROOTPATH$\\src\\useRefHooks\\UseRefHooks.jsx",
 		"bookmarks": [
 			{
-				"line": 15,
-				"column": 14,
-				"label": "init"
+				"line": 27,
+				"column": 13,
+				"label": ""
 			},
 			{
-				"line": 57,
-				"column": 23,
-				"label": "optionForSelect"
+				"line": 51,
+				"column": 18,
+				"label": ""
 			}
 		]
 	},
 	{
-		"path": "$ROOTPATH$/src/useRefHooks/useClickOutside.jsx",
+		"path": "$ROOTPATH$\\src\\useStateHooks\\useStateChild.jsx",
 		"bookmarks": [
 			{
-				"line": 15,
-				"column": 26,
-				"label": "mousedown event listener"
-			}
-		]
-	},
-	{
-		"path": "$ROOTPATH$/src/useEffectHooks/UseEffectHooks.jsx",
-		"bookmarks": [
-			{
-				"line": 12,
-				"column": 14,
-				"label": "returning callback"
-			}
-		]
-	},
-	{
-		"path": "$ROOTPATH$/src/component/ParentComponent.jsx",
-		"bookmarks": [
-			{
-				"line": 7,
+				"line": 5,
 				"column": 13,
-				"label": "parent component state"
+				"label": ""
+			},
+			{
+				"line": 13,
+				"column": 16,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\src\\useStateHooks\\UseStateHooks.jsx",
+		"bookmarks": [
+			{
+				"line": 23,
+				"column": 21,
+				"label": ""
 			}
 		]
 	}
